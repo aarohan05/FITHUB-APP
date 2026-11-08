@@ -1,4 +1,4 @@
-# fithub
+# FITHUB
 
 A new Flutter project.
 
